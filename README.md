@@ -1,2 +1,2 @@
 # OsakaJapaneseFusion
-Official Page for Osaka Japanese Restaurant 
+Official Page for the Osaka Japanese Restaurant. 
