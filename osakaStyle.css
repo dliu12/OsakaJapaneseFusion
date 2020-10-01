@@ -291,6 +291,42 @@ header #title h2 #sushi-image2 img {
   font-family: "Skranji", cursive;
 }
 
+#onlineButton {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 150px;
+  height: 50px;
+  margin-left: 10px;
+  padding: 5px;
+  padding-top: 0px;
+  z-index: 1;
+}
+
+#onlineButton #onlineOrderLink {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: #FFCC33;
+  color: #3C6076;
+  text-decoration: none;
+  border-radius: 15px;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 200%;
+}
+
+#onlineButton #onlineOrderLink:hover {
+  background-color: #FCF1D1;
+  border: 2px solid #FFCC33;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
 #menu {
   margin: 0;
   padding: 0;
